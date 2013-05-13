@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 node_modules
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+>>>>>>> 5408e2cd39b210d29c6f7ee8316507784afed617
